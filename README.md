@@ -4,14 +4,14 @@ The game starts off with you outside in your driveway at night, and the goal of 
 ## Here are the 8 items of this scenario, sorted by their initial locations:
 
 ### front yard items:
-front-door
-wall-lantern (container)
-fake-rock (container)
+#### front-door
+#### wall-lantern (container)
+#### fake-rock (container)
   - spare-key (content)
 ### garage items:
-side-door
-screw-driver
-shoe-box (container)
+#### side-door
+#### screw-driver
+#### shoe-box (container)
   - light-bulb (content)
 
 The pink circle in the front yard is a fake-rock, which is actually a closed container hiding your spare-key. The spare-key is not accessible until you open the fake-rock. However, the wall-lantern has no light-bulb, so it's dark here, and you can't open anything in the dark. Therefore you must fix the wall-lantern by using a new light-bulb.
