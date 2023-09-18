@@ -22,3 +22,5 @@ Once you've fixed the wall-lantern, you can retrieve the spare-key from the fake
 #### Note: The item names must all be exactly as they appear above. The hyphens are necessary because the parser only allows the player to enter two words per command, each word separated by a space. The first word is a command, and the second word is interpreted (or ignored) by the command processor.
 
 #### Note: Doors only reside within a single room, and operate only in one direction. The font-door is in the font yard, and the side-door is in the garage, as shown in the diagram above. When locked, these doors inhibit movement into the house. However, they're not considered at all when moving from inside the house to the front yard or to the garage.
+# Play the game!
+https://www.prof-oliva.com/vt/cs5044/adventure/
